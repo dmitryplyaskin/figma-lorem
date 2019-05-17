@@ -1,0 +1,16 @@
+.STYLE {
+  display: flex;
+  width: 300px;
+}
+.STYLE input {
+  border: 1px solid #000;
+  height: 35px;
+  margin-right: 10px;
+}
+.STYLE input:focus {
+  height: 35px;
+  margin-right: 10px;
+}
+.STYLE button {
+  height: 35px;
+}

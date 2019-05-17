@@ -1,0 +1,19 @@
+.STYLE {
+  display: flex;
+  width: 300px;
+
+  input {
+    border: 1px solid #000;
+    height: 35px;
+    margin-right: 10px;
+
+    &:focus {
+      height: 35px;
+      margin-right: 10px;
+    }
+  }
+
+  button {
+    height: 35px;
+  }
+}
